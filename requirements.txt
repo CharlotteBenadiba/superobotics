@@ -1,0 +1,7 @@
+torchvision~=0.17.0+cu118
+
+torch~=2.2.0+cu118
+
+pillow~=10.2.0
+
+torchmetrics~=1.3.0.post0
